@@ -1,0 +1,26 @@
+/* src/components/Header.css */
+.main-header {
+  background-color: #4CAF50;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.logo {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: white;
+}
+
+nav a {
+  margin-left: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.cart-link {
+  display: flex;
+  align-items: center;
+}

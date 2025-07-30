@@ -1,0 +1,13 @@
+/* src/pages/LandingPage.css */
+.landing-page button {
+  background-color: #fff;
+  color: #333;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+}
+
+.landing-page button:hover {
+  background-color: #ddd;
+}
